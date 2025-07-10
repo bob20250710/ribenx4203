@@ -16,4 +16,4 @@
 
 值得一提的是，移动端体验不容忽视。针对智能手机用户比例持续升高的现状，站点采用响应式布局、底部导航、触屏优化播放控件等，提升整体使用便捷度。页面中尽量减少弹窗广告与自动播放，增强用户的好感度，间接影响搜索排名。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/bob20250710/ribenx4203 ）</span>
